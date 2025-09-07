@@ -1,0 +1,7 @@
+{
+  "name": "SoundSnapper",
+  "description": "A magical sound adventure app that brings your world to life with AI-generated sounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
