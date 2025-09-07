@@ -108,10 +108,6 @@ This is a hackathon submission, but feel free to:
 - Suggest improvements
 - Star the repository if you like it!
 
-## 📄 License
-
-MIT License - feel free to use this code for your own projects!
-
 ## 🙏 Acknowledgments
 
 - **Google** for Gemini 2.5 Flash Image Preview
