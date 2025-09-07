@@ -21,7 +21,7 @@
 
 ## 🚀 Live Demo
 
-🌐 **[Try SoundSnapper Live](https://your-deployed-url.com)** *(Coming Soon)*
+🌐 **[Try SoundSnapper Live No API ]([https://your-deployed-url.com](https://soundsnapper.vercel.app/))**
 
 ## 🎯 How It Works
 
