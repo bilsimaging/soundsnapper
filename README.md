@@ -7,6 +7,8 @@
 [![Fal AI](https://img.shields.io/badge/Transforms%20with-Fal%20AI-purple)](https://fal.ai/)
 [![ElevenLabs](https://img.shields.io/badge/Audio%20by-ElevenLabs-green)](https://elevenlabs.io/)
 
+![Transform your camera captures — AI banner](cover_banner.png)
+
 ## 🌟 What is SoundSnapper?
 
 ### ✨ Key Features
