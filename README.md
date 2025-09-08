@@ -64,12 +64,13 @@ A seamless remix of **reality into AI-powered experiences**.
 ---
 
 ## 🔮 Future Plans
-
+- 🎯 Multi-object snap to listen - capture multiple objects and generate layered soundscapes  
 - 📱 Export audio + image as vertical short videos for TikTok/Reels  
 - 🎭 Add style packs (Cyberpunk, Minimalist, Anime, etc.)  
 - 🗂 Local gallery of recent snaps  
 - 🌍 Community sharing & remixing feed  
 - 🛡 Privacy-first: ephemeral image processing, no retention  
+
 
 ---
 
