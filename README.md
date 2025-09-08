@@ -62,8 +62,7 @@ A seamless remix of **reality into AI-powered experiences**.
 🌐 [Try SoundSnapper Live (No API Required)](https://soundsnapper.vercel.app/)  
 
 🎬 **Watch the Demo Video**  
-[![SoundSnapper Demo]](Sound Snapper - Remix your reality (DEMO) #google #NanoBanana #hackathon2025
-https://youtu.be/MwVpIdp3tdI)
+[![SoundSnapper Demo](https://img.youtube.com/vi/MwVpIdp3tdI/0.jpg)](https://youtu.be/MwVpIdp3tdI)
 
 ---
 
@@ -177,3 +176,4 @@ This is a hackathon project, but feel free to:
 ⸻
 
 Made with ❤️ by Bilsimaging for the Nano Banana Hackathon 2025 🍌
+
