@@ -2,10 +2,7 @@
 
 > Transform your camera captures into immersive audio-visual experiences using cutting-edge AI
 
-[![Nano Banana Hackathon](https://img.shields.io/badge/Nano%20Banana-Hackathon%202025-yellow)](https://www.kaggle.com/competitions/banana/)  
-[![Gemini 2.5](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-blue)](https://ai.google.dev/)  
-[![Fal AI](https://img.shields.io/badge/Transforms%20with-Fal%20AI-purple)](https://fal.ai/)  
-[![ElevenLabs](https://img.shields.io/badge/Audio%20by-ElevenLabs-green)](https://elevenlabs.io/)
+[![Nano Banana Hackathon](https://img.shields.io/badge/Nano%20Banana-Hackathon%202025-yellow)](https://www.kaggle.com/competitions/banana/) [![Gemini 2.5](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-blue)](https://ai.google.dev/) [![Fal AI](https://img.shields.io/badge/Transforms%20with-Fal%20AI-purple)](https://fal.ai/) [![ElevenLabs](https://img.shields.io/badge/Audio%20by-ElevenLabs-green)](https://elevenlabs.io/)
 
 ![Transform your camera captures — AI banner](cover_banner.png)
 
